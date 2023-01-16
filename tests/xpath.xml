@@ -1,0 +1,6 @@
+<page>//body
+    <article>/div
+        <title>/h1</title>
+        <content>//div[@class='content']</content>
+    </article>
+</page>
