@@ -13,7 +13,7 @@ setup(
     description="A package to create structure web-elements schema",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/zavx0z/parse_schema/",
+    url="https://github.com/zavx0z/parse-schema",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
