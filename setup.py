@@ -7,7 +7,7 @@ requirements = ["lxml"]
 
 setup(
     name="parse-schema",
-    version="0.0.1",
+    version="0.0.5",
     author="zavx0z",
     author_email="zavx0z@yahoo.com",
     description="A package to create structure web-elements schema",
